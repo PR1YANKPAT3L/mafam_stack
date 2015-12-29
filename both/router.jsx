@@ -1,5 +1,3 @@
-injectTapEventPlugin();
-
 FlowRouter.route('/login', {
   name: 'login',
   action() {
